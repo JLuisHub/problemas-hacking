@@ -10,7 +10,7 @@ Password: **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**
 
 ## Solución
 ```bash
-one@Unidad03:~$ ssh bandit7@bandit.labs.overthewire.org -p 2220
+hone@Unidad03:~$ ssh bandit7@bandit.labs.overthewire.org -p 2220
 ```
 
 ```

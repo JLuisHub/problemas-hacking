@@ -13,7 +13,7 @@ Password: **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
 hone@Unidad03:~$ ssh bandit9@bandit.labs.overthewire.org -p 2220
 ```
 
-```
+```bash
 bandit9@bandit.labs.overthewire.org's password: EN632PlfYiZbn3PhVK3XOGSlNInNE00t 
 ```
 

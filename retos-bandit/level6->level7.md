@@ -22,7 +22,7 @@ bandit6@bandit.labs.overthewire.org's password: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ```
 
 ```bash
-andit6@bandit:~$ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+bandit6@bandit:~$ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
 /var/lib/dpkg/info/bandit7.password
 ```
 

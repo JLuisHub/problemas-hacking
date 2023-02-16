@@ -13,7 +13,7 @@ Password: **2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe**
 hone@Unidad03:~$ ssh bandit4@bandit.labs.overthewire.org -p 2220
 ```
 
-```
+```bash
 bandit4@bandit.labs.overthewire.org's password: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 ```
 
@@ -26,7 +26,7 @@ inhere
 andit4@bandit cd inhere/
 ```
 
-```properties
+```bash
 bandit4@bandit:~/inhere$ ls -la
 total 48
 drwxr-xr-x 2 root    root    4096 May  7  2020 .
@@ -43,7 +43,7 @@ drwxr-xr-x 3 root    root    4096 May  7  2020 ..
 -rw-r----- 1 bandit5 bandit4   33 May  7  2020 -file09
 ```
 
-```properties
+```bash
 bandit4@bandit:~/inhere$ file ./*
 ./-file00: data
 ./-file01: data
@@ -57,7 +57,7 @@ bandit4@bandit:~/inhere$ file ./*
 ./-file09: data
 ```
 
-```properties
+```bash
 bandit4@bandit:~/inhere$** cat ./-file07
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 ```
