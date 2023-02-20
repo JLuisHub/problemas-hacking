@@ -18,3 +18,5 @@ Se agregaron los retos bandit desde **level0** al **level 9**
 - [level7->level8](retos-bandit/level7-%3Elevel8.md)
 - [level8->level9](retos-bandit/level8-%3Elevel9.md)
 - [level9->level10](retos-bandit/level9-%3Elevel10.md)
+
+#### [1] - 16-02-2023
