@@ -40,4 +40,8 @@ bandit3@bandit:~/inhere$ cat .hidden
 ```
 
 ## Notas adicionales
+|Comando|Descricpicon|
+|---|---|
+|*la -la*|Lista el contenido de un directorio, mostrando los archivos ocultos, utilizando un formato de listado largo|
+
 ## Referencias

@@ -28,5 +28,10 @@ EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 ```
 
 ## Notas adicionales
+|Comando|Descricpicon|
+|---|---|
+|*sort*|Ordena las lineas de un archivo de texto|
+|*uniq -u*|Devuelve la unica linea que es unica|
+
 ## Referencias
 [Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)

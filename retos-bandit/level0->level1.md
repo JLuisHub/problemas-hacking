@@ -28,4 +28,6 @@ NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ## Notas adicionales
 |comando|Descricpicon|
 |---|---|
-|cat|Muestra el contenido de un archivo|
+|*cat*|Muestra el contenido de un archivo|
+
+## Referencias

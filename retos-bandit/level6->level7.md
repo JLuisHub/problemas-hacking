@@ -32,5 +32,9 @@ z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 ```
 
 ## Notas adicionales
+|Comando|Descricpicon|
+|---|---|
+|*2>/dev/null*|Redirigir todos los errores, de tal manera que no se muestre|
+
 ## Referencias
 [What Is /dev/null in Linux?] (https://www.maketecheasier.com/dev-null-in-linux/)

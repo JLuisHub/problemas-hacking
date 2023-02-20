@@ -28,7 +28,6 @@ bandit2@bandit:~$ cat 'spaces in this filename'
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 ```
 
-
 ## Notas adicionales
 ## Referencias
 [Google Search for “spaces in filename”](https://www.google.com/search?q=spaces+in+filename)

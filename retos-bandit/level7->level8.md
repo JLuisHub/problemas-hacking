@@ -28,4 +28,7 @@ millionth	TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 ```
 
 ## Notas adicionales
+|Comando|Descricpicon|
+|---|---|
+|*grep*|Busca en un archivo un patron dado|
 ## Referencias

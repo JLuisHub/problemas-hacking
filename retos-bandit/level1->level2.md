@@ -29,7 +29,6 @@ bandit1@bandit:~$ cat ./-
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 ```
 
-## Notas adicionales
 ## Referencias
 -   [Google Search for “dashed filename”](https://www.google.com/search?q=dashed+filename)
 -   [Advanced Bash-scripting Guide - Chapter 3 - Special Characters](http://tldp.org/LDP/abs/html/special-chars.html)

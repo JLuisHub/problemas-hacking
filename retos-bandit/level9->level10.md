@@ -32,5 +32,8 @@ b~==P
 ```
 
 ## Notas adicionales
+|Comando|Descricpicon|
+|---|---|
+|*String*||
 ## Referencias
 
