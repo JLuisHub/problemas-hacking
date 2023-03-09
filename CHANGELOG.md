@@ -6,7 +6,7 @@ Se creo el repositorio.
 
 ___
 
-Se agregaron los retos bandit desde **level 0** al **level 9**.
+Se agregaron los retos bandit del **level 0** al **level 9**.
 
 ### Added
 
@@ -22,11 +22,11 @@ Se agregaron los retos bandit desde **level 0** al **level 9**.
 - [level8->level9](retos-bandit/level8-%3Elevel9.md)
 - [level9->level10](retos-bandit/level9-%3Elevel10.md)
 
-#### [1] - 16-02-2023
+### [2] - 16-02-2023
 
 ___
 
-Se agregaron los retos bandit desde **level 10** al **level 15**.
+Se agregaron los retos bandit del **level 10** al **level 15**.
 
 ### Added
 
@@ -37,4 +37,22 @@ Se agregaron los retos bandit desde **level 10** al **level 15**.
 - [level14->level15](retos-bandit/level14-%3Elevel15.md)
 - [level15->level16](retos-bandit/level15-%3Elevel16.md)
 
-### [1] - 20-02-2023
+### [3] - 20-02-2023
+
+___
+
+Se agregaron los retos bandit del **level 16** al **level 21**.
+
+### Added
+
+- [level16->level17](retos-bandit/level16-%3Elevel17.md)
+- [level17->level18](retos-bandit/level17-%3Elevel18.md)
+- [level18->level19](retos-bandit/level18-%3Elevel19.md)
+- [level19->level20](retos-bandit/level19-%3Elevel20.md)
+- [level20->level21](retos-bandit/level20-%3Elevel21.md)
+- [level20->level21](retos-bandit/level21-%3Elevel22.md)
+- [level21->level22](retos-bandit/level21-%3Elevel22.md)
+
+### [4] - 09-03-2023
+
+___
