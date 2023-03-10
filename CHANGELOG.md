@@ -84,3 +84,20 @@ Se agregaron los retos bandit del **level 28** al **level33**.
 - [level33->level34](retos-bandit/level33-%3Elevel34.md)
 
 ### [6] - 09-03-2023
+
+___
+
+Se agregaron los retos picoCTF web-2019 de la Actividad 05.
+
+### Added
+
+- [Insp3ct0r](picoCTF/Web-Exploitation/2019/Insp3ct0r/Insp3ct0r.md)
+- [where-are-the-robots](picoCTF/Web-Exploitation/2019/where-are-the-robots/where-are-the-robots.md)
+- [logon](picoCTF/Web-Exploitation/2019/logon/logon.md)
+- [dont-use-client-side](picoCTF/Web-Exploitation/2019/dont-use-client-side/dont-use-client-side.md)
+- [picobrowser](picoCTF/Web-Exploitation/2019/picobrowser/picobrowser.md)
+- [Client-side-again](picoCTF/Web-Exploitation/2019/Client-side-again/Client-side-again.md)
+
+### [7] - 09-03-2023
+
+___
