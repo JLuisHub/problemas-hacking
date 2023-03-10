@@ -70,3 +70,17 @@ Se agregaron los retos bandit del **level 22** al **level28**.
 - [level28->level29](retos-bandit/level28-%3Elevel29.md)
 
 ### [5] - 09-03-2023
+
+___
+
+Se agregaron los retos bandit del **level 28** al **level33**.
+
+### Added
+
+- [level29->level30](retos-bandit/level29-%3Elevel30.md)
+- [level30->level31](retos-bandit/level30-%3Elevel31.md)
+- [level31->level32](retos-bandit/level31-%3Elevel32.md)
+- [level32->level33](retos-bandit/level32-%3Elevel33.md)
+- [level33->level34](retos-bandit/level33-%3Elevel34.md)
+
+### [6] - 09-03-2023
