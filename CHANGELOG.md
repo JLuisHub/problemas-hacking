@@ -114,3 +114,15 @@ Se agregaron los retos picoCTF web-2019 de la Actividad 06
 ## [8] - 14-03-2023
 
 ___
+
+Se agregaron los retos picoCTF web-2021 de la Actividad 07.
+
+### Added
+
+- [GET aHEAD](picoCTF/Web-Exploitation/2021/GET_aHEAD.md)
+- [Cookies](picoCTF/Web-Exploitation/2021/Cookies.md)
+- [Scavenger_Hun](picoCTF/Web-Exploitation/2021/Scavenger_Hunt/Scavenger_Hunt.md)
+
+## [9] - 16-03-2023
+
+__
