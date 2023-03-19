@@ -125,4 +125,43 @@ Se agregaron los retos picoCTF web-2021 de la Actividad 07.
 
 ## [9] - 16-03-2023
 
-__
+___
+
+Se agregaron los retos picoCTF de General Skill para el primer examen.
+
+### Added
+
+Pico CTF 2019
+
+- [Lets Warm Up](picoCTF/general-skills/Examen1/2019/Lets_Warm_Up.md)
+- [Warmed Up](picoCTF/general-skills/Examen1/2019/Warmed_Up.md)
+- [2Warm](picoCTF/general-skills/Examen1/2019/2Warm.md)
+- [what's a net cat?](picoCTF/general-skills/Examen1/2019/what's_a_net_cat.md)
+- [strings it](picoCTF/general-skills/Examen1/2019/strings_it.md)
+- [Bases](picoCTF/general-skills/Examen1/2019/Bases.md)
+- [First Grep](picoCTF/general-skills/Examen1/2019/First_Grep.md)
+- [Based](picoCTF/general-skills/Examen1/2019/Based.md)
+- [plumbing](picoCTF/general-skills/Examen1/2019/plumbing.md)
+
+Pico CTF 2021
+
+- [Obedient Cat](picoCTF/general-skills/Examen1/2021/Obedient_Cat.md)
+- [Wave a flag](picoCTF/general-skills/Examen1/2021/Wave_a_flag.md)
+- [Nice netcat...](picoCTF/general-skills/Examen1/2021/Nice_netcat.md)
+- [Static ain't always noise](picoCTF/general-skills/Examen1/2021/Static_ain't_always_noise.md)
+- [Tab, Tab, Attack](picoCTF/general-skills/Examen1/2021/Tab,Tab,Attack.md)
+- [Magikarp Ground Mission](picoCTF/general-skills/Examen1/2021/Magikarp_Ground_Mission.md)
+
+Beginner PicoMini 2022
+
+- [runme.py](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/runme.py.md)
+- [convertme.py](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/convertme.py.md)
+- [Codebook](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/Codebook.md)
+- [fixme1.py](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/fixme1.py.md)
+- [fixme2.py](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/fixme2.py.md)
+- [Glitch Cat](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/Glitch_Cat.md)
+- [PW Crack 1](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/PW_Crack1.md)
+- [PW Crack 2](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/PW_Crack2.md)
+- [PW Crack 3](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/PW_Crack3.md)
+
+## [10] - 25-09-2022
