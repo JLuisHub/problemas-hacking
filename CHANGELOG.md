@@ -166,7 +166,7 @@ Beginner PicoMini 2022
 
 ## [10] - 19-03-2023
 
-Se agregaron los retos picoCTF Forensic-2019
+Se agregaron los retos picoCTF Forensic-2019 de la actividad 08
 
 ### Added
 
@@ -177,5 +177,19 @@ Se agregaron los retos picoCTF Forensic-2019
 - [What Lies Within](picoCTF/forensic/2019/What_Lies_Within/What_Lies_Within.md)
 
 ## [11] 20-03-2023
+
+___
+
+Se agregaron los retos picoCTF Forensic-2019 de la actividad 09
+
+### Added
+
+- [m00nwalk](picoCTF/forensic/2019/m00nwalk/m00nwalk.md)
+- [WhitePages](picoCTF/forensic/2019/WhitePages/WhitePages.md)
+- [c0rrupt](picoCTF/forensic/2019/c0rrupt/c0rrupt.md)
+- [like1000](picoCTF/forensic/2019/like1000/like1000.md)
+- [sharkon wire 2](picoCTF/forensic/2019/shark_on_wire_2/shark_on_wire_2.md)
+
+## [12] 05-04-2023
 
 ___
