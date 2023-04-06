@@ -11,9 +11,10 @@ hone@Unidad03:~/extensions$ file flag.txt
 flag.txt: PNG image data, 1697 x 608, 8-bit/color RGB, non-interlaced
 ```
 
+Nos damos cuenta que en realidad es una imagen, no un archivo txt, asi que lo que hacemos es abrirla como imagen.
+
 ```bash
-hone@Unidad03:~/extensions$ file flag.txt 
-flag.txt: PNG image data, 1697 x 608, 8-bit/color RGB, non-interlaced
+hone@Unidad03:~/extensions$ mv flag.txt flag.png
 ```
 
 ```bash
