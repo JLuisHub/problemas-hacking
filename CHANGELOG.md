@@ -194,9 +194,9 @@ Se agregaron los retos picoCTF Forensic 2019 de la actividad 09
 
 ___
 
-### Added
-
 Se agregaron los retos picoCTF Forensic 2019 y 2021 de la actividad 10
+
+### Added
 
 - [WebNet0](picoCTF/forensic/2019/webNet0/WebNet0.md)
 - [WebNet1](picoCTF/forensic/2019/webNet1/Webnet1.md)
@@ -206,4 +206,19 @@ Se agregaron los retos picoCTF Forensic 2019 y 2021 de la actividad 10
 
 ## [13] 26-04-2023
 
+___
+
+Se agregaron los retos picoCTF Crypto 2019 de la actividad 11
+
+### Added
+
+- [The numbers](picoCTF/crypto/2019/the_numbers/the_numbers.md)
+- [Easy1](picoCTF/crypto/2019/easy1/easy1.md)
+- [13](picoCTF/crypto/2019/13/13.md)
+- [Caesar](picoCTF/crypto/2019/caesar/caesar.md)
+- [la cifra de](picoCTF/crypto/2019/la_cifra_de/la_cifra_de.md)
+- [Tapping](picoCTF/crypto/2019/tapping/tapping.md)
+- [waves over lambda](picoCTF/crypto/2019/waves_over_lambda/waves_over_lambda.md)
+
+## [14] 29-04-2023
 ___
