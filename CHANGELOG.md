@@ -131,7 +131,7 @@ Se agregaron los retos picoCTF de General Skill para el primer examen.
 
 ### Added
 
-Pico CTF 2019
+Pico CTF 2019 - General Skill
 
 - [Lets Warm Up](Examen_1/general_skills/2019/Lets_Warm_Up.md)
 - [Warmed Up](Examen_1/general_skills/2019/Warmed_Up.md)
@@ -232,3 +232,39 @@ Se agregaron los retos picoCTF Crypto 2019 de la actividad 12
 - [b00tl3gRSA2](picoCTF/crypto/2019/b00tl3gRSA2/b00tl3gRSA2.md)
 
 ## [15] &&-&&-2023
+
+___
+
+Se agregaron los retos picoCTF web exploitation y forensic para el segundo examen.
+
+### Added
+
+Pico CTF 2022 - Web
+
+- [Includes](Examen_2/Web-Exploitation/2022/includes/Includes.md)
+- [Inspect HTML](Examen_2/Web-Exploitation/2022/Inspect_html/Inspect_html.md)
+- [Local Authority](Examen_2/Web-Exploitation/2022/local_Authority/local_Authority.md)
+- [Search Source](Examen_2/Web-Exploitation/2022/search_source.md)
+- [Forbidden Paths](Examen_2/Web-Exploitation/2022/Forbidden_Paths/Forbidden_Paths.md)
+- [Power Cookie](Examen_2/Web-Exploitation/2022/Power_Cooki/Power_Cooki.md)
+- [Roboto Sans](Examen_2/Web-Exploitation/2022/roboto_Sans/roboto_Sans.md)
+- [Secrets](Examen_2/Web-Exploitation/2022/Secrets/Secrets.md)
+- [SQL_Direct](Examen_2/Web-Exploitation/2022/SQL_Direct.md)
+- [SQLiLite](Examen_2/Web-Exploitation/2022/SQLiLite/SQLiLite.md)
+
+Pico CTF 2021 - Forensic
+
+- [information](Examen_2/Forensic/2021/information/information.md)
+- [Wireshark doo dooo do doo..](Examen_2/Forensic/2021/WiresharkDOO/WiresharkDOO.md)
+
+Pico CTF 2022 - Forensic
+
+- [Enhance!](Examen_2/Forensic/2022/Enhance/Enhance.md)
+- [Lookey here](Examen_2/Forensic/2022/lookey_here.md)
+- [Packets Primer](Examen_2/Forensic/2022/packets_primer/packets_primer.md)
+- [Redaction gone wrong](Examen_2/Forensic/2022/redaction_gone_wrong/redaction_gone_wrong.md)
+- [St3g0](Examen_2/Forensic/2022/St3g0/St3g0.md)
+
+## [16] 05-04-2023
+
+___
