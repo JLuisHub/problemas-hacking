@@ -131,38 +131,38 @@ Se agregaron los retos picoCTF de General Skill para el primer examen.
 
 ### Added
 
-Pico CTF 2019
+Pico CTF 2019 - General Skill
 
-- [Lets Warm Up](picoCTF/general-skills/Examen1/2019/Lets_Warm_Up.md)
-- [Warmed Up](picoCTF/general-skills/Examen1/2019/Warmed_Up.md)
-- [2Warm](picoCTF/general-skills/Examen1/2019/2Warm.md)
-- [what's a net cat?](picoCTF/general-skills/Examen1/2019/what's_a_net_cat.md)
-- [strings it](picoCTF/general-skills/Examen1/2019/strings_it.md)
-- [Bases](picoCTF/general-skills/Examen1/2019/Bases.md)
-- [First Grep](picoCTF/general-skills/Examen1/2019/First_Grep.md)
-- [Based](picoCTF/general-skills/Examen1/2019/Based.md)
-- [plumbing](picoCTF/general-skills/Examen1/2019/plumbing.md)
+- [Lets Warm Up](Examen_1/general_skills/2019/Lets_Warm_Up.md)
+- [Warmed Up](Examen_1/general_skills/2019/Warmed_Up.md)
+- [2Warm](Examen_1/general_skills/2019/2Warm.md)
+- [what's a net cat?](Examen_1/general_skills/2019/what's_a_net_cat.md)
+- [strings it](Examen_1/general_skills/2019/strings_it.md)
+- [Bases](Examen_1/general_skills/2019/Bases.md)
+- [First Grep](Examen_1/general_skills/2019/First_Grep.md)
+- [Based](Examen_1/general_skills/2019/Based.md)
+- [plumbing](Examen_1/general_skills/2019/plumbing.md)
 
 Pico CTF 2021
 
-- [Obedient Cat](picoCTF/general-skills/Examen1/2021/Obedient_Cat.md)
-- [Wave a flag](picoCTF/general-skills/Examen1/2021/Wave_a_flag.md)
-- [Nice netcat...](picoCTF/general-skills/Examen1/2021/Nice_netcat.md)
-- [Static ain't always noise](picoCTF/general-skills/Examen1/2021/Static_ain't_always_noise.md)
-- [Tab, Tab, Attack](picoCTF/general-skills/Examen1/2021/Tab,Tab,Attack.md)
-- [Magikarp Ground Mission](picoCTF/general-skills/Examen1/2021/Magikarp_Ground_Mission.md)
+- [Obedient Cat](Examen_1/general_skills/2021/Obedient_Cat.md)
+- [Wave a flag](Examen_1/general_skills/2021/Wave_a_flag.md)
+- [Nice netcat...](Examen_1/general_skills/2021/Nice_netcat.md)
+- [Static ain't always noise](Examen_1/general_skills/2021/Static_ain't_always_noise.md)
+- [Tab, Tab, Attack](Examen_1/general_skills/2021/Tab,Tab,Attack.md)
+- [Magikarp Ground Mission](Examen_1/general_skills/2021/Magikarp_Ground_Mission.md)
 
 Beginner PicoMini 2022
 
-- [runme.py](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/runme.py.md)
-- [convertme.py](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/convertme.py.md)
-- [Codebook](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/Codebook.md)
-- [fixme1.py](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/fixme1.py.md)
-- [fixme2.py](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/fixme2.py.md)
-- [Glitch Cat](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/Glitch_Cat.md)
-- [PW Crack 1](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/PW_Crack1.md)
-- [PW Crack 2](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/PW_Crack2.md)
-- [PW Crack 3](picoCTF/general-skills/Examen1/Beginner-picoMini-2022/PW_Crack3.md)
+- [runme.py](Examen_1/general_skills/Beginner-picoMini-2022/runme.py.md)
+- [convertme.py](Examen_1/general_skills/Beginner-picoMini-2022/convertme.py.md)
+- [Codebook](Examen_1/general_skills/Beginner-picoMini-2022/Codebook.md)
+- [fixme1.py](Examen_1/general_skills/Beginner-picoMini-2022/fixme1.py.md)
+- [fixme2.py](Examen_1/general_skills/Beginner-picoMini-2022/fixme2.py.md)
+- [Glitch Cat](Examen_1/general_skills/Beginner-picoMini-2022/Glitch_Cat.md)
+- [PW Crack 1](Examen_1/general_skills/Beginner-picoMini-2022/PW_Crack1.md)
+- [PW Crack 2](Examen_1/general_skills/Beginner-picoMini-2022/PW_Crack2.md)
+- [PW Crack 3](Examen_1/general_skills/Beginner-picoMini-2022/PW_Crack3.md)
 
 ## [10] - 19-03-2023
 
@@ -232,3 +232,39 @@ Se agregaron los retos picoCTF Crypto 2019 de la actividad 12
 - [b00tl3gRSA2](picoCTF/crypto/2019/b00tl3gRSA2/b00tl3gRSA2.md)
 
 ## [15] &&-&&-2023
+
+___
+
+Se agregaron los retos picoCTF web exploitation y forensic para el segundo examen.
+
+### Added
+
+Pico CTF 2022 - Web
+
+- [Includes](Examen_2/Web-Exploitation/2022/includes/Includes.md)
+- [Inspect HTML](Examen_2/Web-Exploitation/2022/Inspect_html/Inspect_html.md)
+- [Local Authority](Examen_2/Web-Exploitation/2022/local_Authority/local_Authority.md)
+- [Search Source](Examen_2/Web-Exploitation/2022/search_source.md)
+- [Forbidden Paths](Examen_2/Web-Exploitation/2022/Forbidden_Paths/Forbidden_Paths.md)
+- [Power Cookie](Examen_2/Web-Exploitation/2022/Power_Cooki/Power_Cooki.md)
+- [Roboto Sans](Examen_2/Web-Exploitation/2022/roboto_Sans/roboto_Sans.md)
+- [Secrets](Examen_2/Web-Exploitation/2022/Secrets/Secrets.md)
+- [SQL_Direct](Examen_2/Web-Exploitation/2022/SQL_Direct.md)
+- [SQLiLite](Examen_2/Web-Exploitation/2022/SQLiLite/SQLiLite.md)
+
+Pico CTF 2021 - Forensic
+
+- [information](Examen_2/Forensic/2021/information/information.md)
+- [Wireshark doo dooo do doo..](Examen_2/Forensic/2021/WiresharkDOO/WiresharkDOO.md)
+
+Pico CTF 2022 - Forensic
+
+- [Enhance!](Examen_2/Forensic/2022/Enhance/Enhance.md)
+- [Lookey here](Examen_2/Forensic/2022/lookey_here.md)
+- [Packets Primer](Examen_2/Forensic/2022/packets_primer/packets_primer.md)
+- [Redaction gone wrong](Examen_2/Forensic/2022/redaction_gone_wrong/redaction_gone_wrong.md)
+- [St3g0](Examen_2/Forensic/2022/St3g0/St3g0.md)
+
+## [16] 05-04-2023
+
+___
