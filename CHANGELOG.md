@@ -231,7 +231,7 @@ Se agregaron los retos picoCTF Crypto 2019 de la actividad 12
 - [miniRSA](picoCTF/crypto/2019/miniRSA/miniRSA.md)
 - [b00tl3gRSA2](picoCTF/crypto/2019/b00tl3gRSA2/b00tl3gRSA2.md)
 
-## [15] &&-&&-2023
+## [15] 29-04-2023
 
 ___
 
