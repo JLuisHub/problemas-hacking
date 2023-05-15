@@ -268,3 +268,15 @@ Pico CTF 2022 - Forensic
 ## [16] 05-04-2023
 
 ___
+
+Se agregaron los retos picoCTF Crypto 2021,2022,2023 de la actividad 13
+
+- [Mind your Ps and Qs](picoCTF/crypto/2021/mind_your_ps_and_qs/mind_your_ps_and_qs.md)
+- [Pixelated](picoCTF/crypto/2021/pixelated/pixelated.md)
+- [basic-mod1](picoCTF/crypto/2022/basic-mod1/basic-mod1.md)
+- [HideToSee](picoCTF/crypto/2023/hidetosee/hidetosee.md)
+- [ReadMyCert](picoCTF/crypto/2023/ReadMyCert/ReadMyCert.md)
+
+## [17] 15-04-2023
+
+___
