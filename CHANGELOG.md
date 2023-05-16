@@ -269,6 +269,8 @@ Pico CTF 2022 - Forensic
 
 ___
 
+### Added
+
 Se agregaron los retos picoCTF Crypto 2021,2022,2023 de la actividad 13
 
 - [Mind your Ps and Qs](picoCTF/crypto/2021/mind_your_ps_and_qs/mind_your_ps_and_qs.md)
@@ -278,5 +280,18 @@ Se agregaron los retos picoCTF Crypto 2021,2022,2023 de la actividad 13
 - [ReadMyCert](picoCTF/crypto/2023/ReadMyCert/ReadMyCert.md)
 
 ## [17] 15-04-2023
+
+___
+
+### Added
+
+Se agregaron los retos picoCTF Reversing 2019 de la actividad 14
+
+- [vault-door-training](picoCTF/reversing/2019/vault-door-training/vault-door-training.md)
+- [vault-door-1](picoCTF/reversing/2019/vault-door-1/vault-door-1.md)
+- [vault-door-3](picoCTF/reversing/2019/vault-door-3/vault-door-3.md)
+- [vault-door-4](picoCTF/reversing/2019/vault-door-4/vault-door-4.md)
+
+## [18] 15-04-2023
 
 ___
