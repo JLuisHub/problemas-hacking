@@ -306,3 +306,16 @@ Se agregaron 2/3 retos picoCTF Reversing 2019 de la actividad 15
 ## [19] 17-04-2023
 
 ___
+
+Se agregaron los retos picoCTF reversing 2019,2022,2023 de la actividad 16
+
+### Added
+
+- [Need For Speed](picoCTF/reversing/2019/need_for_speed/need_for_speed.md)
+- [GDB Test Drive](picoCTF/reversing/2022/GDB_test_drive/GDB_test_drive.md)
+- [reverse_cipher](picoCTF/reversing/2019/reverse_cipher/reverse_cipher.md)
+- [Safe Opener 2](picoCTF/reversing/2023/safe_opener_2/safe_opener_2.md)
+
+## [20] 18-04-2023
+
+___
