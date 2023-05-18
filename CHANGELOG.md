@@ -221,6 +221,7 @@ Se agregaron los retos picoCTF Crypto 2019 de la actividad 11
 - [waves over lambda](picoCTF/crypto/2019/waves_over_lambda/waves_over_lambda.md)
 
 ## [14] 29-04-2023
+
 ___
 
 Se agregaron los retos picoCTF Crypto 2019 de la actividad 12
@@ -269,9 +270,9 @@ Pico CTF 2022 - Forensic
 
 ___
 
-### Added
-
 Se agregaron los retos picoCTF Crypto 2021,2022,2023 de la actividad 13
+
+### Added
 
 - [Mind your Ps and Qs](picoCTF/crypto/2021/mind_your_ps_and_qs/mind_your_ps_and_qs.md)
 - [Pixelated](picoCTF/crypto/2021/pixelated/pixelated.md)
@@ -283,9 +284,9 @@ Se agregaron los retos picoCTF Crypto 2021,2022,2023 de la actividad 13
 
 ___
 
-### Added
-
 Se agregaron los retos picoCTF Reversing 2019 de la actividad 14
+
+### Added
 
 - [vault-door-training](picoCTF/reversing/2019/vault-door-training/vault-door-training.md)
 - [vault-door-1](picoCTF/reversing/2019/vault-door-1/vault-door-1.md)
@@ -296,9 +297,9 @@ Se agregaron los retos picoCTF Reversing 2019 de la actividad 14
 
 ___
 
-### Added
-
 Se agregaron 2/3 retos picoCTF Reversing 2019 de la actividad 15
+
+### Added
 
 - [asm1](picoCTF/reversing/2019/asm1/asm1.md)
 - [asm2](picoCTF/reversing/2019/asm2/asm2.md)
