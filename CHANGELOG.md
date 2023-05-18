@@ -295,3 +295,14 @@ Se agregaron los retos picoCTF Reversing 2019 de la actividad 14
 ## [18] 15-04-2023
 
 ___
+
+### Added
+
+Se agregaron 2/3 retos picoCTF Reversing 2019 de la actividad 15
+
+- [asm1](picoCTF/reversing/2019/asm1/asm1.md)
+- [asm2](picoCTF/reversing/2019/asm2/asm2.md)
+
+## [19] 17-04-2023
+
+___
