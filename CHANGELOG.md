@@ -320,3 +320,13 @@ Se agregaron los retos picoCTF reversing 2019,2022,2023 de la actividad 16
 ## [20] 18-04-2023
 
 ___
+
+Se agregaron los retos picoCTF Binary Explotation 2022 de la actividad 17
+
+- [basic-file-exploit](picoCTF/binary_explotation/2022/basic-file-exploit/basic-file-exploit.md)
+- [buffer overflow 0](picoCTF/binary_explotation/2022/buffer_overflow_0/buffer_overflow_0.md)
+- [buffer overflow 1](picoCTF/binary_explotation/2022/buffer_overflow_1/buffer_overflow_1.md)
+
+## [21] 19-04-2023
+
+___
