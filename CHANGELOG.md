@@ -297,7 +297,7 @@ Se agregaron los retos picoCTF Reversing 2019 de la actividad 14
 
 ___
 
-Se agregaron 2/3 retos picoCTF Reversing 2019 de la actividad 15
+Se agregaron 2/3 de los retos picoCTF Reversing 2019 de la actividad 15
 
 ### Added
 
@@ -323,10 +323,23 @@ ___
 
 Se agregaron los retos picoCTF Binary Explotation 2022 de la actividad 17
 
+### Added
+
 - [basic-file-exploit](picoCTF/binary_explotation/2022/basic-file-exploit/basic-file-exploit.md)
 - [buffer overflow 0](picoCTF/binary_explotation/2022/buffer_overflow_0/buffer_overflow_0.md)
 - [buffer overflow 1](picoCTF/binary_explotation/2022/buffer_overflow_1/buffer_overflow_1.md)
 
 ## [21] 19-04-2023
+
+___
+
+Se agregaron 1/2 de los retos picoCTF Binary Explotation de la actividad 18
+
+### Added
+
+- [flag leak](picoCTF/binary_explotation/2022/flag_leak/flag_leak.md)
+- [Stonks](picoCTF/binary_explotation/2021/stonks/stonks.md)
+
+## [22] 19-04-2023
 
 ___
