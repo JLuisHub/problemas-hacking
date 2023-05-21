@@ -343,3 +343,32 @@ Se agregaron 1/2 de los retos picoCTF Binary Explotation de la actividad 18
 ## [22] 19-04-2023
 
 ___
+
+Se agregaron los retos picoCTF Crypto, Reversing y Binary explotation para el tercer examen.
+
+### Added
+
+Pico CTF - Crypto
+
+- [Flags](Examen_3/crypto/2019/flags/flags.md)
+- [Mr-Worldwide](Examen_3/crypto/2019/Mr_Worldwide/Mr_Worldwide.md)
+- [transposition-trial](Examen_3/crypto/2022/transposition-trial/transposition-trial.md)
+- [Vigenere](Examen_3/crypto/2022/vigenere/vigenere.md)
+
+Pico CTF - Reversing
+
+- [ASCII FTW](Examen_3/reversing/exclusive/ASCII_FTW/ASCII_FTW.md)
+- [Bit-O-Asm-1](Examen_3/reversing/exclusive/Bit-O-Asm-1/Bit-O-Asm-1.md)
+- [Bit-O-Asm-2](Examen_3/reversing/exclusive/Bit-O-Asm-2/Bit-O-Asm-2.md)
+- [Bit-O-Asm-3](Examen_3/reversing/exclusive/Bit-O-Asm-3/Bit-O-Asm-3.md)
+- [Bit-O-Asm-4](Examen_3/reversing/exclusive/Bit-O-Asm-4/Bit-O-Asm-4.md)
+- [GDB baby step 1](Examen_3/reversing/exclusive/GDB_baby_step_1/GDB_baby_step_1.md)
+- [GDB baby step 2](Examen_3/reversing/exclusive/GDB_baby_step_2/GDB_baby_step_2.md)
+
+Pico CTF - Binary Explotation
+
+- [two-sum](Examen_3/binary_explotation/2023/two-sum/two-sum.md)
+
+## [23] 20-04-2023
+
+__
