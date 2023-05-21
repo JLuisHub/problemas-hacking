@@ -297,7 +297,7 @@ Se agregaron los retos picoCTF Reversing 2019 de la actividad 14
 
 ___
 
-Se agregaron 2/3 retos picoCTF Reversing 2019 de la actividad 15
+Se agregaron 2/3 de los retos picoCTF Reversing 2019 de la actividad 15
 
 ### Added
 
@@ -333,6 +333,17 @@ Se agregaron los retos picoCTF Binary Explotation 2022 de la actividad 17
 
 ___
 
+Se agregaron 1/2 de los retos picoCTF Binary Explotation de la actividad 18
+
+### Added
+
+- [flag leak](picoCTF/binary_explotation/2022/flag_leak/flag_leak.md)
+- [Stonks](picoCTF/binary_explotation/2021/stonks/stonks.md)
+
+## [22] 19-04-2023
+
+___
+
 Se agregaron los retos picoCTF Crypto, Reversing y Binary explotation para el tercer examen.
 
 ### Added
@@ -358,6 +369,6 @@ Pico CTF - Binary Explotation
 
 - [two-sum](Examen_3/binary_explotation/2023/two-sum/two-sum.md)
 
-## [22] 20-04-2023
+## [23] 20-04-2023
 
 __
